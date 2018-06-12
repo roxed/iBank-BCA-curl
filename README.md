@@ -1,6 +1,8 @@
 # iBank-BCA-curl
 Get Balance, Transacrion debit &amp; credit from iBank BCA
 
+In index.php, change variable username and password same with your account
+
 ### AVAILABLE METHOD
  - get balance
  - get transaction
